@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @richardwilborn
 - 🌱 I’m currently learning to code
-- 📫 How to reach me ...
 <p>
   <a href="https://www.linkedin.com/in/RichardDWilborn" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
