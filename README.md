@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardwilborn
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently on the journey to become a full-stack developer.
 <p>
   <a href="https://www.linkedin.com/in/RichardDWilborn" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
