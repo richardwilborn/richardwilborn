@@ -1,5 +1,5 @@
 # Hi, I'm Richard! 👋
-<img src="Assets/IMG_0575.png" alt="Richard Wilborn">
+<img src="IMG_0575.png" alt="Richard Wilborn">
 - 🌱 I’m currently on the journey to become a full-stack developer.
 <p>
   <a href="https://www.linkedin.com/in/RichardDWilborn" rel="nofollow noreferrer">
