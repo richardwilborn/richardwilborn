@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @richardwilborn
+# Hi, I'm Richard! 👋
+
 - 🌱 I’m currently on the journey to become a full-stack developer.
 <p>
   <a href="https://www.linkedin.com/in/RichardDWilborn" rel="nofollow noreferrer">
