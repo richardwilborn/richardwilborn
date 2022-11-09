@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/RichardDWilborn" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a> &nbsp;
 </p>
 
